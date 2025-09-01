@@ -101,7 +101,7 @@ if($adminTable->status == 404){
 
 			.backColor{
 				background: <?php echo $admin->color_admin ?> !important;
-				color: #FFF !important;
+				color: #9f9e9eff !important;
 				border: 0 !important;
 			}
 

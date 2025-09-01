@@ -43,12 +43,27 @@
     .form-wrapper {
         margin-top: 60px;
     }
+
+    @media (max-width: 576px) {
+    .card {
+        padding: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    label {
+        font-size: 0.9rem;
+    }
+}
+
 </style>
 
 
-<div class="container=fluid">
+<div class="container-fluid">
 
-    <div class="d-flex flex-wrap justify-content-center align-content-center vh-100">
+    <div class="d-flex flex-wrap justify-content-center align-items-center min-vh-100 py-5">
 
         <div class="card border-0 rounded shadow p-5">
 
@@ -182,7 +197,7 @@
 <!-- Texto de derechos reservados fuera del formulario -->
 <div class="w-100 text-center mt-3">
     <small class="text-muted">
-        &copy; 2025 Juan Diego Gutiérrez Venegas. Todos los derechos reservados.
-        <a href="mailto:juandiguti@gmail.com" class="text-decoration-none">juandiguti@gmail.com</a>
+        &copy; 2025 Grupo MIG. Todos los derechos reservados.
+        <!--<a href="mailto:juandiguti@gmail.com" class="text-decoration-none">juandiguti@gmail.com</a>-->
     </small>
 </div>
