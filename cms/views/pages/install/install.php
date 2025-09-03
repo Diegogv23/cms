@@ -197,7 +197,8 @@
 <!-- Texto de derechos reservados fuera del formulario -->
 <div class="w-100 text-center mt-3">
     <small class="text-muted">
-        &copy; 2025 Grupo MIG. Todos los derechos reservados.
-        <!--<a href="mailto:juandiguti@gmail.com" class="text-decoration-none">juandiguti@gmail.com</a>-->
+        &copy; 2025 N.O.A.H Todos los derechos reservados.
+        <a href="https://cmsnoah.com/" class="text-decoration-none">cmsnoah.com</a>
+
     </small>
 </div>

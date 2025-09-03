@@ -1,0 +1,6 @@
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Attempt to read property "status" on null in C:\xampp\htdocs\cms\cms\views\template.php on line 33
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Attempt to read property "results" on null in C:\xampp\htdocs\cms\cms\views\template.php on line 39
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\cms\cms\views\template.php on line 39
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Attempt to read property "status" on null in C:\xampp\htdocs\cms\cms\views\template.php on line 33
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Attempt to read property "results" on null in C:\xampp\htdocs\cms\cms\views\template.php on line 39
+[03-Sep-2025 05:35:51 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\cms\cms\views\template.php on line 39
