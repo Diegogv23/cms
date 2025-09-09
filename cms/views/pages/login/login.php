@@ -212,4 +212,4 @@ Modal para recuperar contraseña
 
     </div>
   </div>
-</div><!-- The Modal -->
+</div>
