@@ -128,7 +128,7 @@ $(document).on("click",".deletePage",function(){
 					
 					if(response == 200){
 
-						fncSweetAlert("success","La página ha sido eliminada con éxito",setTimeout(()=>location.reload(),1250));
+						fncSweetAlert("success","La página ha sido eliminada con éxito",setTimeout(()=>window.location = "/",1250));
 					
 					}else{
 
